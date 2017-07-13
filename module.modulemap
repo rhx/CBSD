@@ -1,5 +1,5 @@
 module CBSD [system] {
-  header "/usr/include/CBSD.h"
-  link "CBSD"
+  header "CBSD.h"
+  link "bsd"
   export *
 }
